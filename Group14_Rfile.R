@@ -1,4 +1,4 @@
-setwd('C:/Users/ILLA RAHUL/Downloads/DAPM_Final_Model')
+
 df = read.csv('deathRate_csv.csv')
 sum(is.na(df)) #check missing values if there
 library(ggplot2)
